@@ -17,6 +17,7 @@ $(document).ready(function(){
       $(".fixed-top").css("background-color", "#FFFFFF"); 
     } else {
       $(".fixed-top").css("background-color", "transparent");
+      
     }
   });
 });
